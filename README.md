@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Muhammad Bintang Al-Fath</h1>
+
 # 💫 About Me:
 👀 I'm interested in **Mobile App Development**<br><br>🌱 I’m currently learning **Flutter**<br><br>📫 How to reach me **alfathbintangmuhammad@gmail.com**<br><br>⚡ Fun fact **INFJ Extremist**
 
